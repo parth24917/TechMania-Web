@@ -14,3 +14,9 @@ The objective of this project is to introduce you to web development and help yo
 2nd week: Team takes one component each to complete the website
 3rd week: Team improves the responsiveness of each component
 4th week: Extra additional features like using api, charts and using databases
+
+## Learning Outcomes:
+
+- Learn the basics of HTML, CSS, React.
+- Create a boilerplate for a basic website to reuse in future
+- Learn how to handle api's and state management
